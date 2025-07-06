@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+
 
 website:
   title: "Fugas de Carbono"
@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Inicio
+      - href: posts/
+        text: Entradas
       - href: about.qmd
         text: Sobre el blog
       - text: Publicaciones
@@ -17,7 +19,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true
 
 

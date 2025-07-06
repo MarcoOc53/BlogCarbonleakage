@@ -1,12 +1,14 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-06-30"
-categories: [news]
+title: "Fugas de Carbono: un blog sobre justicia climática"
+format: html
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Bienvenido a este espacio de reflexión y argumentación pública sobre los riesgos y dilemas de la política climática.
 
-![](thumbnail.jpg)
+> ¿Qué son las fugas de carbono y por qué importan?
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+En este blog exploramos el fenómeno de las **fugas de carbono** desde la perspectiva de modelos económicos, simulaciones y debates actuales.
+---
+
+
+

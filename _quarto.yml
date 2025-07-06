@@ -1,11 +1,16 @@
----
-title: "La Culpa Climática; Analizando las Fugas de Carbono ¿Del impuesto al castigo fiscal?"
-format: html
-execute:
-  echo: false
-  warning: false
-  message: false
----
+project:
+  type: website
 
+website:
+  title: "BlogCarbonleakage"
+  navbar:
+    left:
+      - text: "Fugas de Carbon"
+        file: about.qmd
+  page-navigation: true
 
-
+format:
+  html:
+    theme: flatly
+    toc: true
+    df-print: paged

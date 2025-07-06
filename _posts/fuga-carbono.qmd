@@ -1,16 +1,12 @@
 ---
 title: "La Culpa Climática; Analizando las Fugas de Carbono ¿Del impuesto al castigo fiscal?"
 date: 2025-07-06
-categories: [Política Climática, Fiscalidad Verde]
+categories: [Clima, Fiscalidad Verde]
 format: html
 execute:
   echo: false
   warning: false
   message: false
----
----
----
-"**La Culpa Climática;** Analizando las Fugas de Carbono ¿Del impuesto al castigo fiscal?"
 ---
 
 >**Como habitante del Sur Global, considero necesario cuestionar las atribuciones monocausales que responsabilizan a esta región como el principal actor en la degradación ambiental global, enunciando asimetrias, diversidad de mecanismos transnacionales y heterogeneidad estructural contenidas dentro del fenómeno de las fugas de carbono, como las principales motivaciones para generar el siguiente desarrollo teorico... la depreciación como herramienta climática**

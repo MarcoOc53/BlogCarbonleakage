@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fugas de Carbono"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Sobre el blog
+      - text: Publicaciones
+        menu:
+          - href: posts/fuga-carbono-intro.qmd
+            text: ¿Qué son las fugas de carbono?
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+

@@ -1,0 +1,13 @@
+---
+title: "Fugas de Carbono: un blog sobre justicia climática"
+format: html
+---
+
+Bienvenido a este espacio de reflexión y argumentación pública sobre los riesgos y dilemas de la política climática.
+
+> ¿Qué son las fugas de carbono y por qué importan?
+
+En este blog exploramos el fenómeno de las **fugas de carbono** desde la perspectiva de modelos económicos, simulaciones y debates actuales.
+---
+
+
